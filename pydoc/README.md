@@ -2,7 +2,7 @@
 The Python documentation tool.
 
 ## usage
-Run `pydoc` without any arguments to get its complete usage:
+Run `pydoc3` without any arguments to get its complete usage:
 ```
 $ pydoc3
 ```
